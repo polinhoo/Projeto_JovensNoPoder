@@ -27,11 +27,11 @@
   
 ##  Dados
 
-Foi coletado dados do TSE (Tribunal Superior Eleitoral) de candidatos no período de 2020 (eleições municipais). Foi feita a análise dos candidatos de 18 a 29 anos com o objetivo de entender a distribuição do Fundo Eleitoral e uso do recurso por candidatura.
+FoRAM coletado dados do TSE (Tribunal Superior Eleitoral) de candidatos no período de 2020 (eleições municipais). Foi feita a análise dos candidatos de 18 a 29 anos com o objetivo de entender a distribuição do Fundo Eleitoral e uso do recurso por candidatura.
 
-Para a análise foi utilizado dados de duas bases diferentes, uma na qual tinha o valor declarado de despesas máximas de campanha e outra com a descrição de receita dos 3 tipos de fundos.
+Para a análise foram utilizado dados de duas bases diferentes, uma na qual tinha o valor declarado de despesas máximas de campanha e outra com a descrição de receita dos 3 tipos de fundos.
 
-Foi analisado 47.048 candidaturas, com 2.367 inaptas na situação de candidatura e 43.813 aptas da candidatura até as urnas. Tendo 242 com a situação em pleito inapta e 866 com situação inapta na urna
+Foram analisadas 47.048 candidaturas, com 2.367 inaptas na situação de candidatura e 43.813 aptas da candidatura até as urnas. Tendo 242 com a situação em pleito inapta e 866 com situação inapta na urna
 
 
  
@@ -41,7 +41,7 @@ Foi analisado 47.048 candidaturas, com 2.367 inaptas na situação de candidatur
                    
                    1. Base de dados 2020 TSE
                    2. Base de dados de declaração de despesas
-                   3.  Base de dados de declaração dos tipos de fundos
+                   3. Base de dados de declaração dos tipos de fundos
                    4. Jupyter Notebook com a limpeza do dados, as análises e comentários
                    5. Relatórios da análise
                                   
